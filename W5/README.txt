@@ -1,0 +1,1 @@
+I did not complete Q3 however for Q2 I did manage to implement what I believe are all the methods needed to calculate all of the correct probabilites. I have run out of time and only been able to make a generic plot by running the q2a.py file. I could not analyze the data as parts of the question require, but I did manage to get some of the programming done.
